@@ -1,4 +1,9 @@
 import './App.css';
+import Header from './Header/Header';
+import Main from './Main/Main';
+import Footer from './Footer/Footer';
+import { zodiac } from './data';
+
 {/* import the zodiac array */}
 
 function App() {
